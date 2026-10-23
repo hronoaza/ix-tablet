@@ -60,6 +60,6 @@ The name is the attribution designated in the publication. It is not independent
 
 ## 7. Separate permissions / Окремі дозволи
 
-Requests for commercial use, publication of adaptations, software use, or other permissions outside the CC license require permission from the relevant rights holder. No public contact address is designated here.
+Requests for commercial use, publication of adaptations, software use, or other permissions outside the CC license require permission from the relevant rights holder. Licensing and permissions contact / Контакт для ліцензування та дозволів: **hronoaza00@gmail.com**.
 
 **Reference:** https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en
